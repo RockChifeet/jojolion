@@ -4,7 +4,7 @@
   
 在网络上搜集了相关数据后，绘制了图1: 2023年中国各省市旅游接待人次数据地图（不含港澳台），图2：全球部分国家新冠累计确诊病例 。  
   
-[查看详情](file:///C:/Users/PC/Desktop/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E7%BC%96%E7%A8%8B/%E4%BD%9C%E4%B8%9A1/%E4%B8%AD%E5%9B%BD-%E4%B8%96%E7%95%8C.html)  
+[查看详情](https://github.com/RockChifeet/jojolion/blob/main/%E4%B8%AD%E5%9B%BD-%E4%B8%96%E7%95%8C.html)  
   
 ## 2. 组合图表 
   
