@@ -16,4 +16,4 @@
   
 统计了小说《围城》的词频，进行排名前二十的人名词云绘制，建议点击链接后刷新一次。
   
-[查看详情](file:///C:/Users/PC/Desktop/%E5%A4%A7%E4%B8%89%E4%B8%8B/%E7%BC%96%E7%A8%8B/%E4%BD%9C%E4%B8%9A1/%E8%AF%8D%E4%BA%91.html)
+[查看详情](http://m.sy72.com/world/))
